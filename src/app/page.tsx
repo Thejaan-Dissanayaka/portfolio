@@ -10,7 +10,7 @@ export default function Home() {
             Sanchana Thhejaan Portfolio.
           </h1>
           <p className="text-lg text-gray-300">
-            Software Developer | Web Enthusiast | Lifelong Learner
+            web Developer | Web Enthusiast | Lifelong Learner
           </p>
           <p className="mt-2 text-gray-400">
             Explore my featured projects below!
